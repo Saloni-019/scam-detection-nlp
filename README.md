@@ -1,4 +1,4 @@
-# scam-detection-nlp
+# Scam-detection-nlp
 A machine learning project for scam detection using NLP techniques
 
 This project was developed to detect scam or phishing messages using Natural Language Processing (NLP) and machine learning techniques.
